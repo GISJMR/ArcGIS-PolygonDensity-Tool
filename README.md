@@ -3,7 +3,7 @@
 
 Counts the number of overlapping polygons. Output polygon features have a 'coverage' attribute that can be used to created density maps. 
 
-[DOWNLOAD](https://)
+[DOWNLOAD](https://github.com/GISJMR/ArcGIS-PolygonDensity-Tool/raw/master/PolygonDensity.zip)
 
 Example:
 ![polygon_bound](https://github.com/GISJMR/ArcGIS-PolygonDensity-Tool/blob/master/boundaries.png?raw=true)
