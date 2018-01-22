@@ -6,9 +6,9 @@ Counts the number of overlapping polygons. Output polygon features have a 'cover
 [DOWNLOAD](https://)
 
 Example:
-![polygon_bound](https://)
+![polygon_bound](https://github.com/GISJMR/ArcGIS-PolygonDensity-Tool/blob/master/boundaries.png?raw=true)
 *Satellite scene outlines*
-![polygon_density](https://)
+![polygon_density](https://github.com/GISJMR/ArcGIS-PolygonDensity-Tool/blob/master/density.png?raw=true)
 *Polygon density output*
 
 ## Description
