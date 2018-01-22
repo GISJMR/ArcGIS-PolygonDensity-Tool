@@ -12,4 +12,4 @@ Example:
 *Polygon density output*
 
 ## Description
-This script is based on the ‘Spaghetti and Meatballs” approach by Dale Honeycutt here.
+This script is based on the ‘Spaghetti and Meatballs” approach by Dale Honeycutt [here](https://blogs.esri.com/esri/arcgis/2012/11/13/spaghetti_and_meatballs/).
