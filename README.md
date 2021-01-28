@@ -1,4 +1,4 @@
-# ArcGIS-PolygonDensity-Tool
+# arcgis-polygon-density
 *Written by James M Roden*
 
 Counts the number of overlapping polygons. Output polygon features have a 'coverage' attribute that can be used to created density maps. 
